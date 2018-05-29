@@ -7,3 +7,12 @@ C:\Repository\adventuremap\TreasureMap\TreasureMap\obj\Debug\netcoreapp2.0\Treas
 C:\Repository\adventuremap\TreasureMap\TreasureMap\obj\Debug\netcoreapp2.0\TreasureMap.AssemblyInfo.cs
 C:\Repository\adventuremap\TreasureMap\TreasureMap\obj\Debug\netcoreapp2.0\TreasureMap.dll
 C:\Repository\adventuremap\TreasureMap\TreasureMap\obj\Debug\netcoreapp2.0\TreasureMap.pdb
+C:\REPOSITORY\TreasureMap\TreasureMap\bin\Debug\netcoreapp2.0\TreasureMap.deps.json
+C:\REPOSITORY\TreasureMap\TreasureMap\bin\Debug\netcoreapp2.0\TreasureMap.dll
+C:\REPOSITORY\TreasureMap\TreasureMap\bin\Debug\netcoreapp2.0\TreasureMap.pdb
+C:\REPOSITORY\TreasureMap\TreasureMap\obj\Debug\netcoreapp2.0\TreasureMap.csprojResolveAssemblyReference.cache
+C:\REPOSITORY\TreasureMap\TreasureMap\obj\Debug\netcoreapp2.0\TreasureMap.csproj.CoreCompileInputs.cache
+C:\REPOSITORY\TreasureMap\TreasureMap\obj\Debug\netcoreapp2.0\TreasureMap.AssemblyInfoInputs.cache
+C:\REPOSITORY\TreasureMap\TreasureMap\obj\Debug\netcoreapp2.0\TreasureMap.AssemblyInfo.cs
+C:\REPOSITORY\TreasureMap\TreasureMap\obj\Debug\netcoreapp2.0\TreasureMap.dll
+C:\REPOSITORY\TreasureMap\TreasureMap\obj\Debug\netcoreapp2.0\TreasureMap.pdb

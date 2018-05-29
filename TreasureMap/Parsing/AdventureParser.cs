@@ -48,7 +48,7 @@ namespace TreasureMap.Parsing
         {
 
             //On récupére les données
-            var paramList = parseLine(line);
+            var paramList = ParseLine(line);
             map.Height = int.Parse(paramList[2]);
             map.Whidth = int.Parse(paramList[1]);
         }
@@ -57,7 +57,7 @@ namespace TreasureMap.Parsing
         {
 
             //On récupére les données
-            var paramList = parseLine(line);
+            var paramList = ParseLine(line);
 
             Point position;
             int nb;
@@ -77,7 +77,7 @@ namespace TreasureMap.Parsing
         private void LoadMoutains(string line, Map map)
         {
             //On récupére les données
-            var paramList = parseLine(line);
+            var paramList = ParseLine(line);
 
 
             Point position;
@@ -89,7 +89,7 @@ namespace TreasureMap.Parsing
 
         private void LoadAdventurer(string line, List<Adventurer> adventurers)
         {
-            var paramList = parseLine(line);
+            var paramList = ParseLine(line);
 
 
             Point position;
@@ -155,7 +155,7 @@ namespace TreasureMap.Parsing
         }
 
         #region utilities
-        private string[] parseLine(string line)
+        private string[] ParseLine(string line)
             { 
        
             var paramList = line.Split('-');

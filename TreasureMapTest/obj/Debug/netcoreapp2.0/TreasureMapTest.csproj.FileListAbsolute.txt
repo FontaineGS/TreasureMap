@@ -1,0 +1,16 @@
+C:\REPOSITORY\TreasureMap\TreasureMapTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\REPOSITORY\TreasureMap\TreasureMapTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\REPOSITORY\TreasureMap\TreasureMapTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\REPOSITORY\TreasureMap\TreasureMapTest\bin\Debug\netcoreapp2.0\TreasureMapTest.deps.json
+C:\REPOSITORY\TreasureMap\TreasureMapTest\bin\Debug\netcoreapp2.0\TreasureMapTest.runtimeconfig.json
+C:\REPOSITORY\TreasureMap\TreasureMapTest\bin\Debug\netcoreapp2.0\TreasureMapTest.runtimeconfig.dev.json
+C:\REPOSITORY\TreasureMap\TreasureMapTest\bin\Debug\netcoreapp2.0\TreasureMapTest.dll
+C:\REPOSITORY\TreasureMap\TreasureMapTest\bin\Debug\netcoreapp2.0\TreasureMapTest.pdb
+C:\REPOSITORY\TreasureMap\TreasureMapTest\bin\Debug\netcoreapp2.0\TreasureMap.dll
+C:\REPOSITORY\TreasureMap\TreasureMapTest\bin\Debug\netcoreapp2.0\TreasureMap.pdb
+C:\REPOSITORY\TreasureMap\TreasureMapTest\obj\Debug\netcoreapp2.0\TreasureMapTest.csprojResolveAssemblyReference.cache
+C:\REPOSITORY\TreasureMap\TreasureMapTest\obj\Debug\netcoreapp2.0\TreasureMapTest.csproj.CoreCompileInputs.cache
+C:\REPOSITORY\TreasureMap\TreasureMapTest\obj\Debug\netcoreapp2.0\TreasureMapTest.AssemblyInfoInputs.cache
+C:\REPOSITORY\TreasureMap\TreasureMapTest\obj\Debug\netcoreapp2.0\TreasureMapTest.AssemblyInfo.cs
+C:\REPOSITORY\TreasureMap\TreasureMapTest\obj\Debug\netcoreapp2.0\TreasureMapTest.dll
+C:\REPOSITORY\TreasureMap\TreasureMapTest\obj\Debug\netcoreapp2.0\TreasureMapTest.pdb

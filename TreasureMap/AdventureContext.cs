@@ -3,14 +3,17 @@ using System.Collections.Generic;
 using System.Text;
 using TreasureMap.Model;
 using TreasureMap.Parsing;
+//apparemment necessaire pour les tests
+using System.Runtime.CompilerServices;
+[assembly: InternalsVisibleTo("TreasureMapTest")]
 
 namespace TreasureMap
 {
     public class AdventureContext
     {
-        private List<Adventurer> adventurers = new List<Adventurer>();
+        internal List<Adventurer> adventurers = new List<Adventurer>();
 
-        private Map map = new Map();
+        internal Map map = new Map();
 
 
         public void Load(string filename)

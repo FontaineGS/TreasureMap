@@ -1,2 +1,2 @@
-dotnet AdventureMap.dll "C:\\Repository\\test2.txt" " C:\\Repository\\megaresultat.txt"
+dotnet AdventureMap.dll "C:\\REPOSITORY\\TreasureMap\\test2.txt" " C:\\REPOSITORY\\megaresultat.txt"
 pause

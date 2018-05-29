@@ -36,7 +36,7 @@ namespace TreasureMap
                     //On détermine l'action
                     ComputeAdventurerMove(currentAdventurer);
                 }
-                // Peut etre chamboulé en cas d'action illégale donc on recalcule
+                // La boucle peut finir plus tot que prevu si certains mouvements sont impossible, donc on regarde si il nous reste des choses à faire
                 if (adventurers.Select(a => a.MoveQueue.Count).Max() == 0)
                     return;
             }
@@ -133,25 +133,15 @@ namespace TreasureMap
             }
 
             //Sinon, on move et on récupère un trésor si il y en a un
-            adventurer.Position = destination;
-            for (int j = 0; j < map.Treasures.Count; j++)
-            {
-                if (map.Treasures[j].Position.Equals(destination) && map.Treasures[j].Number > 0)
-                {
-                    var temptrez = map.Treasures[j];
-                    temptrez.Number--;
-                    map.Treasures[j] = temptrez;
-                    adventurer.Treasure++;
-                }
-            }
+            ResolveMovement(destination, adventurer);
 
             //ON nettoie la liste des trésors si un trésor a atteint 0 
 
-            map.Treasures.RemoveAll(i => i.Number <= 0);
 
             return true;
         }
 
+        //Vérifie si la destination en paramétre est accessible 
         private bool IsMoveValid(Point destination)
         {
             //On vérifie qu'on soit encore sur la carte
@@ -173,6 +163,24 @@ namespace TreasureMap
             }
 
             return true;
+        }
+
+        //effectue l'action de déplacement et récupére les trésors potentiel
+        private void ResolveMovement(Point destination, Adventurer adventurer)
+        {
+            adventurer.Position = destination;
+            for (int j = 0; j < map.Treasures.Count; j++)
+            {
+                if (map.Treasures[j].Position.Equals(destination) && map.Treasures[j].Number > 0)
+                {
+                    var temptrez = map.Treasures[j];
+                    temptrez.Number--;
+                    map.Treasures[j] = temptrez;
+                    adventurer.Treasure++;
+                }
+            }
+
+            map.Treasures.RemoveAll(i => i.Number <= 0);
         }
 
         #endregion

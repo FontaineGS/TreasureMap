@@ -11,3 +11,16 @@ C:\Repository\adventuremap\TreasureMap\AdventureMap\obj\Debug\netcoreapp2.0\Adve
 C:\Repository\adventuremap\TreasureMap\AdventureMap\obj\Debug\netcoreapp2.0\AdventureMap.AssemblyInfo.cs
 C:\Repository\adventuremap\TreasureMap\AdventureMap\obj\Debug\netcoreapp2.0\AdventureMap.dll
 C:\Repository\adventuremap\TreasureMap\AdventureMap\obj\Debug\netcoreapp2.0\AdventureMap.pdb
+C:\REPOSITORY\TreasureMap\AdventureMap\bin\Debug\netcoreapp2.0\AdventureMap.deps.json
+C:\REPOSITORY\TreasureMap\AdventureMap\bin\Debug\netcoreapp2.0\AdventureMap.runtimeconfig.json
+C:\REPOSITORY\TreasureMap\AdventureMap\bin\Debug\netcoreapp2.0\AdventureMap.runtimeconfig.dev.json
+C:\REPOSITORY\TreasureMap\AdventureMap\bin\Debug\netcoreapp2.0\AdventureMap.dll
+C:\REPOSITORY\TreasureMap\AdventureMap\bin\Debug\netcoreapp2.0\AdventureMap.pdb
+C:\REPOSITORY\TreasureMap\AdventureMap\bin\Debug\netcoreapp2.0\TreasureMap.dll
+C:\REPOSITORY\TreasureMap\AdventureMap\bin\Debug\netcoreapp2.0\TreasureMap.pdb
+C:\REPOSITORY\TreasureMap\AdventureMap\obj\Debug\netcoreapp2.0\AdventureMap.csprojResolveAssemblyReference.cache
+C:\REPOSITORY\TreasureMap\AdventureMap\obj\Debug\netcoreapp2.0\AdventureMap.csproj.CoreCompileInputs.cache
+C:\REPOSITORY\TreasureMap\AdventureMap\obj\Debug\netcoreapp2.0\AdventureMap.AssemblyInfoInputs.cache
+C:\REPOSITORY\TreasureMap\AdventureMap\obj\Debug\netcoreapp2.0\AdventureMap.AssemblyInfo.cs
+C:\REPOSITORY\TreasureMap\AdventureMap\obj\Debug\netcoreapp2.0\AdventureMap.dll
+C:\REPOSITORY\TreasureMap\AdventureMap\obj\Debug\netcoreapp2.0\AdventureMap.pdb
